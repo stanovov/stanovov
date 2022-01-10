@@ -2,7 +2,7 @@
 
 #### :pencil2: About me:
 
-+ I'm 27 year old programmer from Tver :computer:
++ I'm programmer from Tver :computer:
 + I learn Java at [Job4j](https://job4j.ru/) :coffee:
 + Began to study Java from 2021 :date:
 + My Java expirience is 1 year :watch:
