@@ -44,9 +44,9 @@ Style code:
 
 #### Here is my study projects:
 ##### Projects:
-1. [REST API for URL Shortcut service using Spring Boot](https://github.com/stanovov/job4j_url_shortcut)
-2. [REST API for Chat using Spring Boot](https://github.com/stanovov/job4j_chat)
-3. [Forum using Spring Boot](https://github.com/stanovov/job4j_forum)
+1. [REST API for URL Shortcut service using Spring](https://github.com/stanovov/job4j_url_shortcut)
+2. [REST API for Chat using Spring](https://github.com/stanovov/job4j_chat)
+3. [Forum using Spring](https://github.com/stanovov/job4j_forum)
 4. [Car accident registration app using Spring](https://github.com/stanovov/job4j_car_accident)
 5. [Car market using Servlet API & Hibernate](https://github.com/stanovov/job4j_cars)
 6. [To-Do List using Servlet API & Hibernate](https://github.com/stanovov/job4j_todo)
