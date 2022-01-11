@@ -5,7 +5,6 @@
 + I'm programmer from Tver :computer:
 + I learn Java at [Job4j](https://job4j.ru/) :coffee:
 + Began to study Java from 2021 :date:
-+ My Java expirience is 1 year :watch:
 
 ---
 
@@ -66,4 +65,4 @@ Style code:
 6. Spring [DI](https://github.com/stanovov/job4j_spring), [REST API](https://github.com/stanovov/job4j_rest), [Exceptions](https://github.com/stanovov/job4j_bank) & [WebFlux](https://github.com/stanovov/weather_reactive)
 
 ![Stanovov Semyon's github stats](https://github-readme-stats.vercel.app/api?username=stanovov&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanovov&layout=compact&hide=shell)](https://github.com/ShamRail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanovov&layout=compact&hide=shell)](https://github.com/stanovov/github-readme-stats)
