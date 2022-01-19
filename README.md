@@ -43,7 +43,7 @@ Style code:
 
 ---
 
-##### Here is my study projects:
+#### Here is my study projects:
 1. [REST API for URL Shortcut service using Spring](https://github.com/stanovov/job4j_url_shortcut)
 2. [REST API for Chat using Spring](https://github.com/stanovov/job4j_chat)
 3. [Forum using Spring](https://github.com/stanovov/job4j_forum)
