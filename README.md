@@ -41,6 +41,8 @@ Style code:
 > ![](https://img.shields.io/badge/Checkstyle-lightgrey)
 > ![](https://img.shields.io/badge/JavaDoc-f2f2f2)
 
+---
+
 #### Here is my study projects:
 ##### Projects:
 1. [REST API for URL Shortcut service using Spring](https://github.com/stanovov/job4j_url_shortcut)
@@ -55,14 +57,6 @@ Style code:
 10. [Job grabber (HTML Parser using JSOP)](https://github.com/stanovov/job4j_grabber)
 11. Console utilities - [Finder](https://github.com/stanovov/job4j_finder) & [Zip archiver](https://github.com/stanovov/job4j_zip)
 12. [Console CRUD app using Hibernate](https://github.com/stanovov/job4j_tracker)
-
-##### Lessons of:
-1. [Basic syntax](https://github.com/stanovov/job4j_elementary)
-2. [OOP, Collections (Lite), FP, Lambda and Stream API](https://github.com/stanovov/job4j_trainee)
-3. [Data structures, Algorithms, IO, SQL, JDBC, GC and OOD](https://github.com/stanovov/job4j_design)
-4. [Multithreading](https://github.com/stanovov/job4j_threads)
-5. [Hibernate](https://github.com/stanovov/job4j_hibernate)
-6. Spring [DI](https://github.com/stanovov/job4j_spring), [REST API](https://github.com/stanovov/job4j_rest), [Exceptions](https://github.com/stanovov/job4j_bank) & [WebFlux](https://github.com/stanovov/weather_reactive)
 
 ![Stanovov Semyon's github stats](https://github-readme-stats.vercel.app/api?username=stanovov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanovov&layout=compact&hide=shell)](https://github.com/stanovov/github-readme-stats)
