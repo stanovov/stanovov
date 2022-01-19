@@ -66,9 +66,4 @@ Style code:
 
 ![Stanovov Semyon's github stats](https://github-readme-stats.vercel.app/api?username=stanovov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanovov&layout=compact&hide=shell)](https://github.com/stanovov/github-readme-stats)
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/stanovov/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=aswsx&color=DE002D">
-   </a>
-</div>
+![](https://komarev.com/ghpvc/?username=ваше-github-имя пользователя)
