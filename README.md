@@ -66,3 +66,5 @@ Style code:
 
 ![Stanovov Semyon's github stats](https://github-readme-stats.vercel.app/api?username=stanovov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanovov&layout=compact&hide=shell)](https://github.com/stanovov/github-readme-stats)
+
+https://github.com/stanovov/github-profile-views-counter
