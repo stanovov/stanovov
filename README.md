@@ -38,7 +38,7 @@ Style code:
 
 ---
 
-### :computer: Мои учебные проекты
+### :computer: Мои проекты
 
 1. [REST-сервис коротких ссылок. Чтобы обеспечить безопасность пользователей, все ссылки на сайте заменяются ссылками на этот сервис. (Spring Boot)](https://github.com/stanovov/job4j_url_shortcut)
 2. [Простое RESTful веб-приложение "Прогноз погоды". Работает в режиме реактивного программирования. (Spring Boot)](https://github.com/stanovov/weather_reactive)
